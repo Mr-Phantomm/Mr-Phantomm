@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Projects<br>🤝 I’m looking for help with the suggestions for what to learn new<br>🌱 I’m currently learning c++ and Java Script<br>⚡ Fun fact Coding has over 700 languages.
+🔭 I’m currently working on my Projects<br>🤝 I’m looking for help with the suggestions for what to learn new<br>🌱 I’m currently learning c++ and Java and JavaScript<br>⚡ Fun fact Coding has over 700 languages.
 
 
 ## 🌐 Socials:
